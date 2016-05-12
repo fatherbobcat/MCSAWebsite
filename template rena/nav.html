@@ -1,0 +1,23 @@
+<div id="nav">
+<img id="back" src="theme/chineselion.jpg" alt="chineselionbackground"/>
+<a href="index.php"><img id="home" onmouseover="highlight();" src="theme/home.jpg" alt="home"/></a>
+<a href="about.php"><img id="about" onmouseover="highlight();" src="theme/about.jpg" alt="about"/></a>
+<a href="events.php"><img id="events" onmouseover="highlight();" src="theme/events.jpg" alt="events"/></a>
+<a href="media.php"><img id="media" onmouseover="highlight();" src="theme/media.jpg" alt="media"/></a>
+<a href="eboard.php"><img id="eboard" onmouseover="highlight();" src="theme/eboard.jpg" alt="eboard"/></a>
+<a href="contact.php"><img id="contact" onmouseover="highlight();" src="theme/contact.jpg" alt="contact"/></a>
+<img id="login" src="theme/login.jpg" onmouseover="highlight();" alt="login"/>
+<img id="base" src="theme/base.jpg" alt="base"/>
+
+<script type="text/javascript">
+function highlight(){
+var ev = event.target.id;
+$('#'+ev).remove();
+$(\"#nav\").append('<a href=\"index.php\"><img id=\"ev\" onmouseout=\"revert();\" src=\"theme/home1.jpg\" alt=\"home\"/></a>')
+}
+function revert(){
+$(\"#navh\").remove();
+$(\"#nav\").append('<a href=\"index.php\"><img id=\"navh\" onmouseover=\"highlight();\" src=\"theme/home.jpg\" alt=\"home\"/></a>')
+}
+</script>
+

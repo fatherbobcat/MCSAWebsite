@@ -1,0 +1,87 @@
+<?php
+require("nav.php");
+?>
+<div id="bodycontent">
+	<div id="login"><img src="theme/login.jpg" alt="login"/></div>
+		<div id="content">
+			<div id="main_text">
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+				hahhahhdasohdoasdhoasjdas
+				dasodj<br/>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+</body>
+</html>
